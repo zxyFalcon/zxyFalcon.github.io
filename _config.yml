@@ -12,7 +12,7 @@ url: https://zxyfalcon.github.io/ # the base hostname & protocol for your site
 permalink: /:year-:month/:title
 timezone:
 
-favicon: /assets/img/icon.jpg
+favicon: /assets/img/diary.ico
 
 google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
